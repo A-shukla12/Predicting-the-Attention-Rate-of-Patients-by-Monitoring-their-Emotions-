@@ -5,4 +5,4 @@ The model building involved a lot of experimenting with the parameters and the d
 
 Moreover, callback functions were used to save the widely information from epochs for visualizations. A bit of enhanced research yielded dad that pre trained models provided by PyTorch library we're also great for image recognition hands hence the use of pre trained VGG 16 was implied on our data set from stop. After comparing the performance of both the models built the custom CNN model yielded better performance with an accuracy of 63%. Lastly by using computer vision techniques the recognition of emotions was carried out in real time by using default computer camera.
 
-emotioncnnmodel.pdf[emotioncnnmodek.pdf](emotioncnnmodel.pdf)
+The custom built CNN model's architecture can be accessed in the file: [emotioncnnmodek.pdf](emotioncnnmodel.pdf)
